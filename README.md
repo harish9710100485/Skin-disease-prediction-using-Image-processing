@@ -54,13 +54,7 @@ http://127.0.0.1:5000/
 
 The model is trained using publicly available skin disease image datasets, ensuring diverse and accurate predictions.
 
-## Screenshots
 
-![Upload Image Page](./assets/upload_page.png)
-*Figure 1: Upload Image Page*
-
-![Prediction Result](./assets/prediction_result.png)
-*Figure 2: Prediction Result*
 
 ## Future Enhancements
 
